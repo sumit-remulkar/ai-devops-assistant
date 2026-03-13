@@ -1,3 +1,9 @@
+## 🖥 Live Dashboard Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+![AI Diagnosis](screenshots/diagnosis.png)
+![Remediation](screenshots/remediation.png)
+
 # 🤖 AI DevOps Automation System
 
 > AI-powered infrastructure monitoring, root cause analysis, and auto-remediation
